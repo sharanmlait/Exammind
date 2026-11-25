@@ -1,0 +1,26 @@
+I.K. Gujral Punjab Technical University (SAMPLE / SYNTHETIC PAPER)
+B.Tech CSE — Operating Systems — End Semester Examination 2022
+Time: 3 Hours    Max. Marks: 60
+
+SECTION A
+Q1. Draw a RAG with a cycle but no deadlock. (2 marks)
+Q2. Compare linked allocation and FAT. (2 marks)
+Q3. Explain the dining philosophers problem and give a deadlock-free solution. (2 marks)
+Q4. What is thrashing? How can it be prevented? (2 marks)
+Q5. Draw the Gantt chart for round robin with quantum 2 ms and find average turnaround time. (2 marks)
+Q6. Calculate total head movement using SSTF, SCAN and C-SCAN for the given request queue. (2 marks)
+Q7. Explain the methods to recover from deadlock. (2 marks)
+Q8. Explain RAID levels 0, 1 and 5. (2 marks)
+
+SECTION B
+Q9. Differentiate between a program and a process. (5 marks)
+Q10. Solve the bounded buffer problem using semaphores. (5 marks)
+Q11. Explain multiprogramming and how it improves CPU utilisation. (5 marks)
+Q12. Compare SJF and SRTF with an example. How is the next CPU burst predicted? (5 marks)
+Q13. Explain deadlock prevention by denying each Coffman condition. (5 marks)
+Q14. What is a race condition? Give an example. (5 marks)
+
+SECTION C
+Q15. What is Belady's anomaly? Explain with an example. (10 marks)
+Q16. Explain paging with a neat diagram. What is a TLB? (10 marks)
+Q17. Explain the Banker's algorithm with an example. Find whether the system is in a safe state. (10 marks)

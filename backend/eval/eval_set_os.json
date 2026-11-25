@@ -1,0 +1,216 @@
+{
+  "subject": "Operating Systems (demo)",
+  "questions": [
+    {
+      "question": "What is a system call and how does it switch to kernel mode?",
+      "gold_section": "System calls",
+      "expected_keywords": [
+        "trap",
+        "kernel mode"
+      ]
+    },
+    {
+      "question": "Explain the five states of a process",
+      "gold_section": "Process concept",
+      "expected_keywords": [
+        "ready",
+        "running",
+        "waiting"
+      ]
+    },
+    {
+      "question": "What does a PCB contain?",
+      "gold_section": "Process control block",
+      "expected_keywords": [
+        "program counter",
+        "registers"
+      ]
+    },
+    {
+      "question": "Define turnaround time and waiting time",
+      "gold_section": "Scheduling criteria",
+      "expected_keywords": [
+        "completion time",
+        "burst time"
+      ]
+    },
+    {
+      "question": "What is the convoy effect?",
+      "gold_section": "FCFS scheduling",
+      "expected_keywords": [
+        "long",
+        "short processes"
+      ]
+    },
+    {
+      "question": "Why is SJF called optimal?",
+      "gold_section": "SJF scheduling",
+      "expected_keywords": [
+        "minimum average waiting time"
+      ]
+    },
+    {
+      "question": "What happens if the time quantum is too large in round robin?",
+      "gold_section": "Round Robin scheduling",
+      "expected_keywords": [
+        "fcfs"
+      ]
+    },
+    {
+      "question": "How does aging solve starvation?",
+      "gold_section": "Priority scheduling",
+      "expected_keywords": [
+        "aging",
+        "priority"
+      ]
+    },
+    {
+      "question": "multilevel feedback queue kya hai",
+      "gold_section": "Multilevel queue scheduling",
+      "expected_keywords": [
+        "queues",
+        "move"
+      ]
+    },
+    {
+      "question": "What are the requirements of a critical section solution?",
+      "gold_section": "Critical section problem",
+      "expected_keywords": [
+        "mutual exclusion",
+        "progress",
+        "bounded waiting"
+      ]
+    },
+    {
+      "question": "Difference between binary and counting semaphore",
+      "gold_section": "Semaphores",
+      "expected_keywords": [
+        "binary",
+        "counting"
+      ]
+    },
+    {
+      "question": "How is the bounded buffer problem solved?",
+      "gold_section": "Producer consumer problem",
+      "expected_keywords": [
+        "mutex",
+        "empty",
+        "full"
+      ]
+    },
+    {
+      "question": "How can the dining philosophers avoid deadlock?",
+      "gold_section": "Dining philosophers problem",
+      "expected_keywords": [
+        "chopstick"
+      ]
+    },
+    {
+      "question": "Why are monitors better than semaphores?",
+      "gold_section": "Monitors",
+      "expected_keywords": [
+        "condition variables"
+      ]
+    },
+    {
+      "question": "What are the Coffman conditions?",
+      "gold_section": "Deadlock conditions",
+      "expected_keywords": [
+        "hold and wait",
+        "circular wait"
+      ]
+    },
+    {
+      "question": "Does a cycle in a resource allocation graph always mean deadlock?",
+      "gold_section": "Resource allocation graph",
+      "expected_keywords": [
+        "cycle",
+        "instance"
+      ]
+    },
+    {
+      "question": "banker algorithm mein need kaise calculate karte hai",
+      "gold_section": "Bankers algorithm",
+      "expected_keywords": [
+        "need",
+        "allocation"
+      ]
+    },
+    {
+      "question": "How do we recover from a deadlock?",
+      "gold_section": "Deadlock detection and recovery",
+      "expected_keywords": [
+        "termination",
+        "preemption"
+      ]
+    },
+    {
+      "question": "What is a TLB?",
+      "gold_section": "Paging",
+      "expected_keywords": [
+        "translation lookaside buffer"
+      ]
+    },
+    {
+      "question": "How is address translation done in segmentation?",
+      "gold_section": "Segmentation",
+      "expected_keywords": [
+        "base",
+        "limit"
+      ]
+    },
+    {
+      "question": "What happens during a page fault?",
+      "gold_section": "Virtual memory",
+      "expected_keywords": [
+        "page fault",
+        "disk"
+      ]
+    },
+    {
+      "question": "What is Belady's anomaly?",
+      "gold_section": "Page replacement algorithms",
+      "expected_keywords": [
+        "fifo",
+        "frames"
+      ]
+    },
+    {
+      "question": "thrashing kyu hota hai",
+      "gold_section": "Thrashing",
+      "expected_keywords": [
+        "working set",
+        "frames"
+      ]
+    },
+    {
+      "question": "Compare linked and indexed allocation",
+      "gold_section": "File allocation methods",
+      "expected_keywords": [
+        "index block",
+        "linked"
+      ]
+    },
+    {
+      "question": "What is the elevator algorithm in disk scheduling?",
+      "gold_section": "Disk scheduling algorithms",
+      "expected_keywords": [
+        "scan"
+      ]
+    },
+    {
+      "question": "How does RAID 5 survive a disk failure?",
+      "gold_section": "RAID",
+      "expected_keywords": [
+        "parity"
+      ]
+    }
+  ],
+  "off_topic": [
+    "Who won the IPL final last year?",
+    "Give me a recipe for paneer butter masala",
+    "What is the capital of Australia?",
+    "Explain photosynthesis in plants",
+    "Write a poem about the monsoon"
+  ]
+}

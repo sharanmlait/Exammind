@@ -1,0 +1,19 @@
+OPERATING SYSTEMS (Sample syllabus for the ExamMind demo)
+
+UNIT I: Introduction
+Operating system functions, Types of operating systems, System calls, Process concept, Process control block
+
+UNIT II: CPU Scheduling
+Scheduling criteria, FCFS scheduling, SJF scheduling, Round Robin scheduling, Priority scheduling, Multilevel queue scheduling
+
+UNIT III: Process Synchronization
+Critical section problem, Semaphores, Producer consumer problem, Dining philosophers problem, Monitors
+
+UNIT IV: Deadlocks
+Deadlock conditions, Resource allocation graph, Bankers algorithm, Deadlock detection and recovery
+
+UNIT V: Memory Management
+Paging, Segmentation, Virtual memory, Page replacement algorithms, Thrashing
+
+UNIT VI: File and Disk Management
+File allocation methods, Disk scheduling algorithms, RAID

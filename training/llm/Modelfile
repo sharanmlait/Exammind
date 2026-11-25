@@ -1,0 +1,15 @@
+# Load your fine-tuned model into Ollama:
+#   1. put the downloaded .gguf file next to this Modelfile and fix the name below
+#   2. ollama create exammind -f Modelfile
+#   3. ollama run exammind        (test it)
+#   4. in backend/.env: ANSWER_LLM_PROVIDER=ollama  OLLAMA_MODEL=exammind
+FROM ./exammind-q4_k_m.gguf
+
+PARAMETER temperature 0.4
+PARAMETER num_ctx 4096
+PARAMETER stop "<|im_end|>"
+
+SYSTEM """You write model answers for Indian university (B.Tech) theory exams.
+Structure: **Introduction** (1-2 lines, a definition) -> **Key points** (numbered, each point bold title + 1-2 lines)
+-> **Diagram hint** (what to draw, if any) -> **Conclusion** (1 line).
+Match the length to the marks. Use only the provided notes; cite like [S1]. Simple language, exam keywords."""

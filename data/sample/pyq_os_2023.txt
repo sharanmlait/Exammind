@@ -1,0 +1,22 @@
+I.K. Gujral Punjab Technical University (SAMPLE / SYNTHETIC PAPER)
+B.Tech CSE — Operating Systems — End Semester Examination 2023
+Time: 3 Hours    Max. Marks: 60
+
+SECTION A
+Q1. What is a race condition? Give an example. (2 marks)
+Q2. What is Belady's anomaly? Explain with an example. (2 marks)
+Q3. What is a monitor? How is it better than semaphores? (2 marks)
+Q4. Explain paging with a neat diagram. What is a TLB? (2 marks)
+
+SECTION B
+Q5. Explain contiguous, linked and indexed file allocation methods. (5 marks)
+Q6. What is starvation in priority scheduling? How does aging solve it? (5 marks)
+Q7. Draw and explain the process state transition diagram. (5 marks)
+Q8. Explain the dining philosophers problem and give a deadlock-free solution. (5 marks)
+Q9. Explain fork() and exec() system calls. (5 marks)
+Q10. List and explain the criteria used to compare CPU scheduling algorithms. (5 marks)
+
+SECTION C
+Q11. Draw the Gantt chart for round robin with quantum 2 ms and find average turnaround time. (10 marks)
+Q12. Compare SCAN and C-LOOK disk scheduling. (10 marks)
+Q13. Write the safety algorithm used in deadlock avoidance. (10 marks)

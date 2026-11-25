@@ -1,0 +1,104 @@
+text,label,year,marks
+Explain segmentation with a diagram. How is it different from paging?,Segmentation,2019,2
+What is the critical section problem? State the requirements of a solution.,Critical section problem,2019,2
+Explain fork() and exec() system calls.,System calls,2019,2
+Compare linked allocation and FAT.,File allocation methods,2019,2
+How can deadlock occur among philosophers sharing chopsticks? Suggest remedies.,Dining philosophers problem,2019,2
+Differentiate between binary and counting semaphores.,Semaphores,2019,2
+Calculate average waiting time using first come first served for the given processes.,FCFS scheduling,2019,2
+Why is Round Robin suitable for time-sharing systems?,Round Robin scheduling,2019,2
+Differentiate between a program and a process.,Process concept,2019,5
+Explain condition variables used in monitors.,Monitors,2019,5
+Differentiate multilevel queue and multilevel feedback queue scheduling.,Multilevel queue scheduling,2019,5
+Explain preemptive priority scheduling with an example.,Priority scheduling,2019,5
+"Differentiate between batch, time-sharing and real-time systems.",Types of operating systems,2019,5
+Explain SJF scheduling. Why is it called optimal?,SJF scheduling,2019,5
+Write the safety algorithm used in deadlock avoidance.,Bankers algorithm,2019,10
+Compare SCAN and C-LOOK disk scheduling.,Disk scheduling algorithms,2019,10
+"Calculate the number of page faults using LRU for the reference string 7,0,1,2,0,3,0,4.",Page replacement algorithms,2019,10
+Write the safety algorithm used in deadlock avoidance.,Bankers algorithm,2020,2
+What is a segment table? Explain address translation in segmentation.,Segmentation,2020,2
+Explain multiprogramming and how it improves CPU utilisation.,Types of operating systems,2020,2
+Explain the producer consumer problem and its solution.,Producer consumer problem,2020,5
+Compare linked allocation and FAT.,File allocation methods,2020,5
+What is thrashing? How can it be prevented?,Thrashing,2020,5
+What is RAID? How does RAID 5 provide fault tolerance?,RAID,2020,5
+Explain Peterson's solution for two processes.,Critical section problem,2020,5
+Calculate average waiting time using first come first served for the given processes.,FCFS scheduling,2020,5
+Calculate effective access time with TLB hit ratio 80%.,Paging,2020,10
+"Calculate total head movement using SSTF, SCAN and C-SCAN for the given request queue.",Disk scheduling algorithms,2020,10
+Explain Round Robin scheduling. What is the effect of time quantum size on performance?,Round Robin scheduling,2020,10
+Why is Round Robin suitable for time-sharing systems?,Round Robin scheduling,2021,2
+List and explain the criteria used to compare CPU scheduling algorithms.,Scheduling criteria,2021,2
+What is a semaphore? Explain wait and signal operations.,Semaphores,2021,2
+"Calculate the number of page faults using LRU for the reference string 7,0,1,2,0,3,0,4.",Page replacement algorithms,2021,2
+What is the critical section problem? State the requirements of a solution.,Critical section problem,2021,5
+What is starvation in priority scheduling? How does aging solve it?,Priority scheduling,2021,5
+"Explain contiguous, linked and indexed file allocation methods.",File allocation methods,2021,5
+Explain SJF scheduling. Why is it called optimal?,SJF scheduling,2021,5
+Explain the dining philosophers problem and give a deadlock-free solution.,Dining philosophers problem,2021,5
+Explain FCFS scheduling and the convoy effect.,FCFS scheduling,2021,5
+Compare SCAN and C-LOOK disk scheduling.,Disk scheduling algorithms,2021,10
+"Given Max and Allocation matrices, compute Need and find a safe sequence.",Bankers algorithm,2021,10
+Explain paging with a neat diagram. What is a TLB?,Paging,2021,10
+Draw a RAG with a cycle but no deadlock.,Resource allocation graph,2022,2
+Compare linked allocation and FAT.,File allocation methods,2022,2
+Explain the dining philosophers problem and give a deadlock-free solution.,Dining philosophers problem,2022,2
+What is thrashing? How can it be prevented?,Thrashing,2022,2
+Draw the Gantt chart for round robin with quantum 2 ms and find average turnaround time.,Round Robin scheduling,2022,2
+"Calculate total head movement using SSTF, SCAN and C-SCAN for the given request queue.",Disk scheduling algorithms,2022,2
+Explain the methods to recover from deadlock.,Deadlock detection and recovery,2022,2
+"Explain RAID levels 0, 1 and 5.",RAID,2022,2
+Differentiate between a program and a process.,Process concept,2022,5
+Solve the bounded buffer problem using semaphores.,Producer consumer problem,2022,5
+Explain multiprogramming and how it improves CPU utilisation.,Types of operating systems,2022,5
+Compare SJF and SRTF with an example. How is the next CPU burst predicted?,SJF scheduling,2022,5
+Explain deadlock prevention by denying each Coffman condition.,Deadlock conditions,2022,5
+What is a race condition? Give an example.,Critical section problem,2022,5
+What is Belady's anomaly? Explain with an example.,Page replacement algorithms,2022,10
+Explain paging with a neat diagram. What is a TLB?,Paging,2022,10
+Explain the Banker's algorithm with an example. Find whether the system is in a safe state.,Bankers algorithm,2022,10
+What is a race condition? Give an example.,Critical section problem,2023,2
+What is Belady's anomaly? Explain with an example.,Page replacement algorithms,2023,2
+What is a monitor? How is it better than semaphores?,Monitors,2023,2
+Explain paging with a neat diagram. What is a TLB?,Paging,2023,2
+"Explain contiguous, linked and indexed file allocation methods.",File allocation methods,2023,5
+What is starvation in priority scheduling? How does aging solve it?,Priority scheduling,2023,5
+Draw and explain the process state transition diagram.,Process concept,2023,5
+Explain the dining philosophers problem and give a deadlock-free solution.,Dining philosophers problem,2023,5
+Explain fork() and exec() system calls.,System calls,2023,5
+List and explain the criteria used to compare CPU scheduling algorithms.,Scheduling criteria,2023,5
+Draw the Gantt chart for round robin with quantum 2 ms and find average turnaround time.,Round Robin scheduling,2023,10
+Compare SCAN and C-LOOK disk scheduling.,Disk scheduling algorithms,2023,10
+Write the safety algorithm used in deadlock avoidance.,Bankers algorithm,2023,10
+What is a semaphore? Explain wait and signal operations.,Semaphores,2024,2
+What is a deadlock? Explain with an example.,Deadlock conditions,2024,2
+Explain SJF scheduling. Why is it called optimal?,SJF scheduling,2024,2
+What is Belady's anomaly? Explain with an example.,Page replacement algorithms,2024,2
+Draw and explain the process state transition diagram.,Process concept,2024,2
+Explain the Banker's algorithm with an example. Find whether the system is in a safe state.,Bankers algorithm,2024,2
+Compare linked allocation and FAT.,File allocation methods,2024,2
+"Explain RAID levels 0, 1 and 5.",RAID,2024,2
+What is a segment table? Explain address translation in segmentation.,Segmentation,2024,5
+What is thrashing? How can it be prevented?,Thrashing,2024,5
+Explain the producer consumer problem and its solution.,Producer consumer problem,2024,5
+What is the critical section problem? State the requirements of a solution.,Critical section problem,2024,5
+Explain the methods to recover from deadlock.,Deadlock detection and recovery,2024,5
+Differentiate multilevel queue and multilevel feedback queue scheduling.,Multilevel queue scheduling,2024,5
+Calculate effective access time with TLB hit ratio 80%.,Paging,2024,10
+Explain Round Robin scheduling. What is the effect of time quantum size on performance?,Round Robin scheduling,2024,10
+Compare SCAN and C-LOOK disk scheduling.,Disk scheduling algorithms,2024,10
+Explain multiprogramming and how it improves CPU utilisation.,Types of operating systems,2025,2
+Explain preemptive priority scheduling with an example.,Priority scheduling,2025,2
+How does control pass from user mode to kernel mode during a system call?,System calls,2025,2
+Explain SJF scheduling. Why is it called optimal?,SJF scheduling,2025,2
+Explain disk access time and its components.,Disk scheduling algorithms,2025,2
+Explain deadlock prevention by denying each Coffman condition.,Deadlock conditions,2025,5
+What is RAID? How does RAID 5 provide fault tolerance?,RAID,2025,5
+How can deadlock occur among philosophers sharing chopsticks? Suggest remedies.,Dining philosophers problem,2025,5
+What is a PCB? List its contents.,Process control block,2025,5
+Explain the steps in handling a page fault.,Virtual memory,2025,5
+What is a monitor? How is it better than semaphores?,Monitors,2025,5
+Explain the Banker's algorithm with an example. Find whether the system is in a safe state.,Bankers algorithm,2025,10
+Explain paging with a neat diagram. What is a TLB?,Paging,2025,10
+"Compare FIFO, LRU and Optimal page replacement for the given reference string with 3 frames.",Page replacement algorithms,2025,10

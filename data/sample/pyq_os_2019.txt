@@ -1,0 +1,26 @@
+I.K. Gujral Punjab Technical University (SAMPLE / SYNTHETIC PAPER)
+B.Tech CSE — Operating Systems — End Semester Examination 2019
+Time: 3 Hours    Max. Marks: 60
+
+SECTION A
+Q1. Explain segmentation with a diagram. How is it different from paging? (2 marks)
+Q2. What is the critical section problem? State the requirements of a solution. (2 marks)
+Q3. Explain fork() and exec() system calls. (2 marks)
+Q4. Compare linked allocation and FAT. (2 marks)
+Q5. How can deadlock occur among philosophers sharing chopsticks? Suggest remedies. (2 marks)
+Q6. Differentiate between binary and counting semaphores. (2 marks)
+Q7. Calculate average waiting time using first come first served for the given processes. (2 marks)
+Q8. Why is Round Robin suitable for time-sharing systems? (2 marks)
+
+SECTION B
+Q9. Differentiate between a program and a process. (5 marks)
+Q10. Explain condition variables used in monitors. (5 marks)
+Q11. Differentiate multilevel queue and multilevel feedback queue scheduling. (5 marks)
+Q12. Explain preemptive priority scheduling with an example. (5 marks)
+Q13. Differentiate between batch, time-sharing and real-time systems. (5 marks)
+Q14. Explain SJF scheduling. Why is it called optimal? (5 marks)
+
+SECTION C
+Q15. Write the safety algorithm used in deadlock avoidance. (10 marks)
+Q16. Compare SCAN and C-LOOK disk scheduling. (10 marks)
+Q17. Calculate the number of page faults using LRU for the reference string 7,0,1,2,0,3,0,4. (10 marks)

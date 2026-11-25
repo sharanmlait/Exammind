@@ -1,0 +1,26 @@
+I.K. Gujral Punjab Technical University (SAMPLE / SYNTHETIC PAPER)
+B.Tech CSE — Operating Systems — End Semester Examination 2024
+Time: 3 Hours    Max. Marks: 60
+
+SECTION A
+Q1. What is a semaphore? Explain wait and signal operations. (2 marks)
+Q2. What is a deadlock? Explain with an example. (2 marks)
+Q3. Explain SJF scheduling. Why is it called optimal? (2 marks)
+Q4. What is Belady's anomaly? Explain with an example. (2 marks)
+Q5. Draw and explain the process state transition diagram. (2 marks)
+Q6. Explain the Banker's algorithm with an example. Find whether the system is in a safe state. (2 marks)
+Q7. Compare linked allocation and FAT. (2 marks)
+Q8. Explain RAID levels 0, 1 and 5. (2 marks)
+
+SECTION B
+Q9. What is a segment table? Explain address translation in segmentation. (5 marks)
+Q10. What is thrashing? How can it be prevented? (5 marks)
+Q11. Explain the producer consumer problem and its solution. (5 marks)
+Q12. What is the critical section problem? State the requirements of a solution. (5 marks)
+Q13. Explain the methods to recover from deadlock. (5 marks)
+Q14. Differentiate multilevel queue and multilevel feedback queue scheduling. (5 marks)
+
+SECTION C
+Q15. Calculate effective access time with TLB hit ratio 80%. (10 marks)
+Q16. Explain Round Robin scheduling. What is the effect of time quantum size on performance? (10 marks)
+Q17. Compare SCAN and C-LOOK disk scheduling. (10 marks)

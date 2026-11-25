@@ -1,0 +1,23 @@
+I.K. Gujral Punjab Technical University (SAMPLE / SYNTHETIC PAPER)
+B.Tech CSE — Operating Systems — End Semester Examination 2025
+Time: 3 Hours    Max. Marks: 60
+
+SECTION A
+Q1. Explain multiprogramming and how it improves CPU utilisation. (2 marks)
+Q2. Explain preemptive priority scheduling with an example. (2 marks)
+Q3. How does control pass from user mode to kernel mode during a system call? (2 marks)
+Q4. Explain SJF scheduling. Why is it called optimal? (2 marks)
+Q5. Explain disk access time and its components. (2 marks)
+
+SECTION B
+Q6. Explain deadlock prevention by denying each Coffman condition. (5 marks)
+Q7. What is RAID? How does RAID 5 provide fault tolerance? (5 marks)
+Q8. How can deadlock occur among philosophers sharing chopsticks? Suggest remedies. (5 marks)
+Q9. What is a PCB? List its contents. (5 marks)
+Q10. Explain the steps in handling a page fault. (5 marks)
+Q11. What is a monitor? How is it better than semaphores? (5 marks)
+
+SECTION C
+Q12. Explain the Banker's algorithm with an example. Find whether the system is in a safe state. (10 marks)
+Q13. Explain paging with a neat diagram. What is a TLB? (10 marks)
+Q14. Compare FIFO, LRU and Optimal page replacement for the given reference string with 3 frames. (10 marks)

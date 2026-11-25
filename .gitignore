@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+backend/.env
+backend/storage/
+node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+training/classifier/output/
+training/llm/data/
+training/llm/*.gguf
+training/llm/exammind-gguf/
+training/llm/exammind-lora/
+.DS_Store

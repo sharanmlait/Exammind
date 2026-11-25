@@ -1,0 +1,14 @@
+# core API
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic-settings>=2.4
+python-multipart>=0.0.9
+httpx>=0.27
+# documents
+pypdf>=4.3
+# retrieval + classic ML
+numpy>=1.26
+scikit-learn>=1.5
+rank-bm25>=0.2.2
+# dev
+pytest>=8.0

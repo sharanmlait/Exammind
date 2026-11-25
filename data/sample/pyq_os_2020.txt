@@ -1,0 +1,21 @@
+I.K. Gujral Punjab Technical University (SAMPLE / SYNTHETIC PAPER)
+B.Tech CSE — Operating Systems — End Semester Examination 2020
+Time: 3 Hours    Max. Marks: 60
+
+SECTION A
+Q1. Write the safety algorithm used in deadlock avoidance. (2 marks)
+Q2. What is a segment table? Explain address translation in segmentation. (2 marks)
+Q3. Explain multiprogramming and how it improves CPU utilisation. (2 marks)
+
+SECTION B
+Q4. Explain the producer consumer problem and its solution. (5 marks)
+Q5. Compare linked allocation and FAT. (5 marks)
+Q6. What is thrashing? How can it be prevented? (5 marks)
+Q7. What is RAID? How does RAID 5 provide fault tolerance? (5 marks)
+Q8. Explain Peterson's solution for two processes. (5 marks)
+Q9. Calculate average waiting time using first come first served for the given processes. (5 marks)
+
+SECTION C
+Q10. Calculate effective access time with TLB hit ratio 80%. (10 marks)
+Q11. Calculate total head movement using SSTF, SCAN and C-SCAN for the given request queue. (10 marks)
+Q12. Explain Round Robin scheduling. What is the effect of time quantum size on performance? (10 marks)

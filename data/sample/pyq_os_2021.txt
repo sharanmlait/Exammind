@@ -1,0 +1,22 @@
+I.K. Gujral Punjab Technical University (SAMPLE / SYNTHETIC PAPER)
+B.Tech CSE — Operating Systems — End Semester Examination 2021
+Time: 3 Hours    Max. Marks: 60
+
+SECTION A
+Q1. Why is Round Robin suitable for time-sharing systems? (2 marks)
+Q2. List and explain the criteria used to compare CPU scheduling algorithms. (2 marks)
+Q3. What is a semaphore? Explain wait and signal operations. (2 marks)
+Q4. Calculate the number of page faults using LRU for the reference string 7,0,1,2,0,3,0,4. (2 marks)
+
+SECTION B
+Q5. What is the critical section problem? State the requirements of a solution. (5 marks)
+Q6. What is starvation in priority scheduling? How does aging solve it? (5 marks)
+Q7. Explain contiguous, linked and indexed file allocation methods. (5 marks)
+Q8. Explain SJF scheduling. Why is it called optimal? (5 marks)
+Q9. Explain the dining philosophers problem and give a deadlock-free solution. (5 marks)
+Q10. Explain FCFS scheduling and the convoy effect. (5 marks)
+
+SECTION C
+Q11. Compare SCAN and C-LOOK disk scheduling. (10 marks)
+Q12. Given Max and Allocation matrices, compute Need and find a safe sequence. (10 marks)
+Q13. Explain paging with a neat diagram. What is a TLB? (10 marks)
